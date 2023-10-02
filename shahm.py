@@ -39,7 +39,7 @@ APP_HASH='c866f6a9330db54550db52c2c590d87c'
 #bot_token='6562457500:AAHtpXHyrXqtRP3JzM638Nf7Bc8g9-Atmvw'
 abbas=TelegramClient('SiMuslcbot', APP_ID, APP_HASH)
 abbas.start()
-a = requests.session(1BJWap1sBu5ea9wJBlGfGVtmuJ56rIsw-eO6I4Of-5QOA7fYOV0EKcU9Fmbtn2xea_GSQe7L2V7PaBcvea9HmkR-69Ha1uiFKduFJtqnuvk-l46XMirgnDcBE_ptzsDdSl2xmEGOyy6j50pPW66m0-Wwgjrlgjzcj1864ixvkLcZao6tlwB2DCZQW6hcQXdrT6Ik2vEN-yCXiYaVh-N921xKMioScv0YpiD67MAHUfrg0xoiRkEQRA53-jH1fdNU5kBKqTM99uQdLEY115IPY-0UOWuA8shO0T4HiJh15b6PnbSVjEJD8QT73K8oEhXC-pvHJ8Wza3bp6FcPZMSJ4qUYNhR_4QOo=)
+a = requests.session()
 bot_username = '@eeobot'
 bot_username1 = '@A_MAN9300BOT'
 bot_username2 = '@MARKTEBOT'
